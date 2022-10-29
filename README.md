@@ -1,9 +1,9 @@
-[![Xenzi-XN1 header](https://i.ibb.co/JHYt4DC/20221022-102141.jpg)](https://fb.me/g4rzk)
+[![Xenzi-XN1 header](https://i.ibb.co/JHYt4DC/20221022-102141.jpg)](https://github.com/Xenzi-XN1/)
 
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Xenzi-XN1.Xenzi-XN1" />
-  <a href="https://github.com/g4rzk"><img src="https://img.shields.io/github/followers/Xenzi-XN1?label=followers&style=social"/></a>
+  <a href="https://github.com/Xenzi-XN1"><img src="https://img.shields.io/github/followers/Xenzi-XN1?label=followers&style=social"/></a>
   </a>
 </p>
 
@@ -14,7 +14,8 @@
  - 🌐 Language
    - 🇮🇩 Indonesian
 
-#### account-facebook adalah sebuah Tools Untuk prank spam sms dan wa
+# account-facebook
+#### account-facebook adalah sebuah Tools Untuk mengambil account facebook orang lain
 
 # Bagaimana Cara Installnya?
 ### Buka Termux Kalian lalu ketik satu persatu seperti dibawah ini
@@ -22,25 +23,29 @@
 pkg update && pkg upgrade
 pkg install python
 pkg install git
-python3 -m pip install rich requests
-git clone https://github.com/Xenzi-XN1/Tools-Spm
-cd Tools-Spm
-python spm.py
+pip -r install requirement.txt
+git clone https://github.com/Xenzi-XN1/account-facebook
+cd account-facebook
+python account.py
 ```
-
-# Apa saja fungsinya
-+ Spam sms 24jam
-+ Spam wa 24jam
-
-# Tampilan Login Dari Tools Tools-Spm
-![img](https://github.com/Xenzi-XN1/Tools-Spm/blob/main/IMG/IMG_20221023_142003.jpg)
-# Hasil Dari Tools Tools-Spm
-![img](https://github.com/Xenzi-XN1/Tools-Spm/blob/main/IMG/IMG_20221023_142058.jpg)
-
-# Thanks to
-```
-Team Xenzi
-Dark Club
-XTC | Code Team
-```
+[![Xenzi-XN1 header](https://i.ibb.co/JHYt4DC/20221022-102141.jpg)](https://github.com/Xenzi-XN1/)
+### Login Script account-facebook
+ - 💵 Beli Apikey Trial 
+   - Rp. 20.000 ( Permingu )
+   - Rp. 50.000 ( Perbulan )
+   - Rp. 200.000 ( Permanen + File no enc )
+ - 📱 Menu Login
+   - 01. Login Menggunakan Cookie
+   - 02. No Login ( Version 1.0 )
+ - 🛠️ Lapor bug
+   - Contact : +6281288572373
+   - Lapor kan bug + screenshot 
+ - 👥 My Team
+   - Team Xenzi
+   - Dark Club
+   - XTC | Code Team
+ - 🌍 My social media
+   - YouTube : Xenzi Ganz, Xenzi Official
+   - Blog : team-xenzi.blogsport.com
+   - Contact : +6281288572373
 
