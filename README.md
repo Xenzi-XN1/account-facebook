@@ -28,7 +28,7 @@ git clone https://github.com/Xenzi-XN1/account-facebook
 cd account-facebook
 python account.py
 ```
-[![Xenzi-XN1 header](https://i.ibb.co/JHYt4DC/20221022-102141.jpg)](https://github.com/Xenzi-XN1/)
+[![Xenzi-XN1 header](https://i.ibb.co/RTHbyyt/20221029-203056.jpg)](https://github.com/Xenzi-XN1/)
 ### Login Script account-facebook
  - 💵 Beli Apikey Trial 
    - Rp. 20.000 ( Permingu )
